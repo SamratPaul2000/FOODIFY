@@ -5,7 +5,7 @@ const Login = () => {
         <img className="w-[50vw] h-full flex justify-center items-center" src="/assets/LOGIN.jpg" alt="LOGO" />
       </section>
       <section className="text-white">
-        <h1>Food</h1>
+        <h1>Foodify</h1>
       </section>
     </div>
   );
