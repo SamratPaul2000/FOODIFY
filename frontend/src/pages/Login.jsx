@@ -4,7 +4,7 @@ const Login = () => {
       <section>
         <img className="w-[50vw] h-full flex justify-center items-center" src="/assets/LOGIN.jpg" alt="LOGO" />
       </section>
-      <section className="text-white">
+      <section className="text-white bg-red">
         <h1>Foodify</h1>
       </section>
     </div>
