@@ -1,6 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-*{
-  background-color:black;
+
+
+* {
+  background-color: #F5F5F5;
+}
+
+body {
+  font-family: 'Rubik Doodle Shadow', sans-serif;
 }
